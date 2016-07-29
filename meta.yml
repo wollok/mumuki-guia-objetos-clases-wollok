@@ -1,5 +1,5 @@
 ---
-name: Métodos y estado
+name: Clases
 locale: es
 type: learning
 beta: false
@@ -7,22 +7,6 @@ teacher_info: ''
 language: wollok
 id_format: '%05d'
 order:
-- 18
-- 2
-- 3
-- 4
-- 5
-- 21
-- 20
-- 6
-- 7
-- 8
-- 9
-- 10
-- 11
-- 12
-- 13
-- 14
 - 15
 - 16
 - 17
