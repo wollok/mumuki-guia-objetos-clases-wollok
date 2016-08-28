@@ -1,0 +1,1 @@
+> Declará al contramestre `panic`
