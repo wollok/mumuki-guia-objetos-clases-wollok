@@ -1,9 +1,29 @@
 ---
-name: Clases
+name: Clases e Instancias
 locale: es
 type: learning
 beta: false
-teacher_info: ''
+teacher_info: "### Script aproximado: \n\n- Crear un objeto\n- Crear otro objeto\n-
+  Crear un tercer objeto\n- Generalizacion - Clases: Ver que se parecen algunos y
+  otros no. \n- Clases: declarando objetos de una clase\n- Ejercicio: Hacer otro objeto.
+  ¿Pertenece a la misma clase? (No -> es un object comun)\n- Ejercicio: Hacer otro
+  objeto. ¿Pertenece a la misma clase? (Si -> tiene que generalizar)\n        -> COROLARIO:
+  ojo que en algunos lenguajes no es una opción y TODO objeto debe tener una clase.\n-
+  Multiples instancias: necesitamos varios. el New\n- Ejercicio\n- Multiples instancias:
+  parametros diferentes - constructor\n- Ejercicio: agregar un constructor\n- Polimorfismo,
+  revisado. \n\n\n### Temas \n\n- Generalizacion\n- Instancia\n- Clase\n- Creación
+  (instanciación)\n\n\n\n### Dominio\n\n\n1. objetos pricipales. Son unicos y perteneces
+  a su propia clase. \n2. objetos que perteneces algunas clase, pero tienen nombre\n3.
+  bjetos que pertenecen a alguna clase, tienen nombre, pero estados diferentes\n4.
+  objetos comunes que no son bien conocidos\n\n- daOrdenes()\n  - el capitan le da
+  ordenes a todos, siempre\n  - si hay hambre, el cocinero le da ordenes\n  - hayConflicto
+  -> si se dan ordenes mutuamente (nivel barco o nivel duo)\n  - los piratas rasos
+  no dan ordenes a nadie\n\n- pasa un dia:\n    - los reparadores reparan el barco
+  (suben su nivel de salud)\n    - los soldados rasos aumentan su nivel de hambre
+  \n    - los cocineros dan de comer a todos. \n\n1. el capitan lin y el contramestre
+  uks\n2. los reparadores coude & fix.  \n3. los cocineros crash, cor & damp, y los
+  barcos jaass quel rules (difieren en su tamaño y cantidad de tripulantes máxima)\n4.
+  \ los piratas rasos\n\n\n\n"
 language: wollok
 id_format: '%05d'
 order:
