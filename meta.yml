@@ -27,6 +27,4 @@ teacher_info: "### Script aproximado: \n\n- Crear un objeto\n- Crear otro objeto
 language: wollok
 id_format: '%05d'
 order:
-- 15
-- 16
-- 17
+- 1
