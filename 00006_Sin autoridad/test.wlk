@@ -9,11 +9,11 @@ test "existe coude" {
 test "aunque pertenece a la tripulacion del grub, fix no puede darle ordenes" {
   var unPirata = object { }
   grub.agregarTripulante(unPirata)
-  assert.that(fix.puedeDarOrdenesA(unPirata, grub))
+  assert.notThat(fix.puedeDarOrdenesA(unPirata, grub))
 }
 
 test "aunque pertenece a la tripulacion del grub, coude no puede darle ordenes" {
   var unPirata = object { }
   grub.agregarTripulante(unPirata)
-  assert.that(coude.puedeDarOrdenesA(unPirata, grub))
+  assert.notThat(coude.puedeDarOrdenesA(unPirata, grub))
 }
