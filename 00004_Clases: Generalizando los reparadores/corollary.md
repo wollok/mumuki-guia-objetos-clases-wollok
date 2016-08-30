@@ -1,0 +1,3 @@
+:warning: las clases sólo nos sirven para generalizar objetos que tengan el mismo comportamiento: mismos métodos y mismos atributos. En este caso, el código de ambas linternas era el mismo, por eso pudimos generalizarlo. 
+
+Si el código fuera parecido pero no pudiera ser generalizado para que sea el mismo, las clases no nos serviran. Por ahora...
