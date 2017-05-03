@@ -25,7 +25,7 @@ teacher_info: "### Script aproximado: \n\n- Crear un objeto\n- Crear otro objeto
   barcos jaass quel rules (difieren en su tamaño y cantidad de tripulantes máxima)\n4.
   \ los piratas rasos\n\n\n\n"
 language: wollok
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 2
