@@ -1,5 +1,5 @@
 ---
-name: Clases e Instancias
+name: Clases e Instancias - Piratas
 locale: es
 type: learning
 beta: false
@@ -35,3 +35,4 @@ order:
 - 5
 - 8
 - 7
+private: true
